@@ -63,7 +63,7 @@ import java.lang.String;
 import java.util.ArrayList;
 import java.util.List;
 
-import slim.utils.PackageManagerUtils;
+import org.slim.utils.PackageManagerUtils;
 
 /**
  * Top level "Call settings" UI; see res/xml/call_feature_setting.xml
