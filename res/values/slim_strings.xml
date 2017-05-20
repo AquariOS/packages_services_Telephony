@@ -76,4 +76,6 @@
     <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA preferred</string>
 
     <string name="msim_mobile_network_settings_title">SIM %d mobile network settings</string>
+    <string name="cdma_call_settings">CDMA call settings</string>
+
 </resources>
